@@ -9,5 +9,10 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/enginous/angular-oauth.git"
-  }
+  },
+  "authors": [
+    "Fred Jonsson <fridrik@pyth.net>"
+    , "Ian Young <ian@iangreenleaf.com>"
+  ],
+  "license": "MIT"
 }
