@@ -1,6 +1,7 @@
 {
   "name": "angular-oauth",
   "version": "1.0.0",
+  "main": "src/js/angularOauth.js",
   "dependencies": {
     "angular": ">= 1.1.4"
   },
